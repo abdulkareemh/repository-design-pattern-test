@@ -15,31 +15,31 @@ Setup Instructions
 
    
 
-git clone 
+    git clone 
 
 Navigate to the project directory:
 
 
 
-cd project-directory
+    cd project-directory
 
 Install dependencies:
 
 
 
-composer install
+    composer install
 
 Create a .env file by copying the .env.example file:
 
 
 
-cp .env.example .env
+    cp .env.example .env
 
 Generate an application key:
 
 
 
-php artisan key:generate
+    php artisan key:generate
 
 Configure your database settings in the .env file.
 
@@ -47,7 +47,7 @@ Run database migrations to create tables:
 
 
 
-php artisan migrate --seed
+    php artisan migrate 
 
 Serve the application:
 
