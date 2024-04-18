@@ -85,5 +85,4 @@ User Types and Pricing
 
 License
 
-[Choose an appropriate license for your project, e.g., MIT License]
-Contributors
+MIT License
