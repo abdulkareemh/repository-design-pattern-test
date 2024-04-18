@@ -10,11 +10,11 @@ Technologies Used
 
 Setup Instructions
 
-    Clone the repository: https://github.com/abdulkareemh/repository-design-pattern-test.git
+Clone the repository:
 
    
 
-    git clone 
+    git clone https://github.com/abdulkareemh/repository-design-pattern-test.git
 
 Navigate to the project directory:
 
